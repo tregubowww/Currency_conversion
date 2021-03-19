@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency conversion</string>
+    <string name="rub">RUB</string>
+    <string name="ERROR_LOADING">loading_error</string>
+</resources>
